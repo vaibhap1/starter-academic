@@ -1,39 +1,42 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Vaibhav Pandey
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Ph.D. Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: University of California, Irvine
+  url: https://www.uci.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include temporal data mining, causal inference, health informatics, and machine learning.
 
 # Interests to show in About widget
 interests:
 - Artificial Intelligence
-- Computational Linguistics
+- Data Mining
+- Time series analysis
+- Machine Learning
+- Causal Inference
 - Information Retrieval
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: PhD in Computer Science
+    institution: University of California, Irvine
+    year: 2021 (Expected)
+  - course: MS in Computer Science
+    institution: University of California, Irvine
+    year: 2019
+  - course: BTech (H) in Computer Science and Engineering
+    institution: Indian Institute of Technology Kharagpur
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
