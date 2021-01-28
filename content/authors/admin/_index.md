@@ -62,9 +62,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: media/resume.pdf
+ - icon: cv
+   icon_pack: ai
+   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -75,4 +75,4 @@ highlight_name: false
 
 I am a computer science doctoral student at University of California Irvine, working with Dr. Ramesh Jain at Social Life Networks Lab. My research is centered around the development of user models in a health navigation system for guiding personal life by quantifying lifestyle and environmental data. Using cybernetic principles, we can transform heterogeneous data streams into actionable information in real time, which result into positive health outcomes. I also have three years of professional experience in predictive modeling and data science projects in Health insurance, Retail chain and credit risk analysis domains. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
