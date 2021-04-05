@@ -35,11 +35,16 @@ experience:
         * Collaborating with experts and researchers in an interdisciplinary environment.
         * Developing and testing research prototypes for multimedia research experiments and modeling.
         
-  - title: Professor
-    company: University X
+  - title: Teaching Assistant
+    company: UC Irvine
     company_url: ''
     location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    date_start: '2016-09-16'
+    date_end: '2019-03-21'
+    description:  |2-
+        Graduate teaching assistant for undergraduate computer science courses acroops all years. Resposibities include:
+        
+        * Leading project discussion and tutorial sessions.
+        * Formulating lesson plans, course assignments and projects.
+        * Managing course logistics.
 ---
