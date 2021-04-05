@@ -22,18 +22,18 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Graduate Student Researcher
+    company: UC Irvine
     company_url: ''
     location: California
-    date_start: '2017-01-01'
-    date_end: ''
+    date_start: '2016-09-16'
+    date_end: 'Current'
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Conceptualizing and formulating research problems in the domain of temporal event modelling for personal health models.
+        * Collaborating with experts and researchers in an interdisciplinary environment.
+        * Developing and testing research prototypes for multimedia research experiments and modeling.
         
   - title: Professor
     company: University X
