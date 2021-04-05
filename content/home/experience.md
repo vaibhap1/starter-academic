@@ -27,7 +27,7 @@ experience:
     company_url: ''
     location: California
     date_start: '2016-09-16'
-    date_end: 'Current'
+    date_end: ''
     description: |2-
         Responsibilities include:
         
