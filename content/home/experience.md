@@ -26,7 +26,7 @@ experience:
     company: UC Irvine
     company_url: ''
     location: California
-    date_start: '2016-09-16'
+    date_start: '2019-04-16'
     date_end: ''
     description: |2-
         Responsibilities include:
@@ -54,5 +54,18 @@ experience:
     location: Washington
     date_start: '2017-07-01'
     date_end: '2017-09-01'
-    description:  Analysing tremors and movement patterns among Parkinson’s disease patients using accelerometer and lifestyle data collected using smart phones and mHealth application. 
+    description:  Analysing tremors and movement patterns among Parkinson’s disease patients using accelerometer and lifestyle data collected using smart phones and mHealth application.
+    
+  - title: Senior Research Associate
+    company: Abzooba India
+    company_url: ''
+    location: India
+    date_start: '2013-12-13'
+    date_end: '2016-06-06'
+    description:  |2-
+        Resposibities include:
+        
+        * Leading project discussion and tutorial sessions.
+        * Formulating lesson plans, course assignments and projects.
+        * Managing course logistics.
 ---
