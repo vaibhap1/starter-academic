@@ -47,4 +47,12 @@ experience:
         * Leading project discussion and tutorial sessions.
         * Formulating lesson plans, course assignments and projects.
         * Managing course logistics.
+
+  - title: Research Intern (Systems biology)
+    company: Sagebionetworks
+    company_url: ''
+    location: Washington
+    date_start: '2017-07-01'
+    date_end: '2017-09-01'
+    description:  Analysing tremors and movement patterns among Parkinson’s disease patients using accelerometer and lifestyle data collected using smart phones and mHealth application. 
 ---
