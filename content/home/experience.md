@@ -62,10 +62,22 @@ experience:
     location: India
     date_start: '2013-12-13'
     date_end: '2016-06-06'
-    description:  |2-
-        Resposibities include:
-        
-        * Leading project discussion and tutorial sessions.
-        * Formulating lesson plans, course assignments and projects.
-        * Managing course logistics.
+    description:  
+    
+
+  - title: Analyst (R&D)
+    company: Global Anlaytics
+    company_url: ''
+    location: India
+    date_start: '2013-07-10'
+    date_end: '2013-12-10'
+    description:  
+    
+  - title: Reserach Intern
+    company: Infosys Labs
+    company_url: ''
+    location: India
+    date_start: '2011-05-10'
+    date_end: '2011-07-10'
+    description:  
 ---
