@@ -29,7 +29,8 @@ feature:
   icon_pack: fas
   name: Statistics
 - description: 80%
-  icon: Postgresql_elephant
+  icon: "Postgresql_database"
+  icon_pack: "custom"
   name: PostgreSQL
 
 # Uncomment to use emoji icons.
