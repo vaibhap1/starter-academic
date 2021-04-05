@@ -42,7 +42,7 @@ experience:
     date_start: '2016-09-16'
     date_end: '2019-03-21'
     description:  |2-
-        Graduate teaching assistant for undergraduate computer science courses acroops all years. Resposibities include:
+        Graduate teaching assistant for undergraduate computer science courses across all years. Resposibities include:
         
         * Leading project discussion and tutorial sessions.
         * Formulating lesson plans, course assignments and projects.
