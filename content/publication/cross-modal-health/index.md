@@ -37,7 +37,7 @@ abstract: Individuals create and consume more diverse data about themselves toda
 
 
 # Summary. An optional shortened abstract.
-# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Individuals create and consume more diverse data about themselves today than any time in history. Sources of this data include wearable devices, images, social media, geo-spatial information and more. A tremendous opportunity rests within cross-modal data analysis that leverages existing domain knowledge methods to understand and guide human health. Especially in chronic diseases, current medical practice uses a combination of sparse hospital based biological metrics (blood tests, expensive imaging, etc.) to understand the evolving health status of an individual. Future health systems must integrate data created at the individual level to better understand health status perpetually, especially in a cybernetic framework.
 
 # tags: []
 
@@ -78,7 +78,7 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---
 
 {{% callout note %}}
