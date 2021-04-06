@@ -1,5 +1,4 @@
 ---
-active: false
 title: "Health multimedia: Lifestyle recommendations based on diverse observations"
 
 # Authors
@@ -39,7 +38,7 @@ summary: Health is primarily a product of our everyday lifestyle actions, yet we
 # tags: []
 
 # Display this page in the Featured widget?
- featured: false
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
