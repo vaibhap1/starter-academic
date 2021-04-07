@@ -21,7 +21,7 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2019/02/13T00:00:00Z"
+date: "2019-02-13T00:00:00Z"
 doi: "https://doi.org/10.1038/s41746-019-0083-3"
 
 # Schedule page publish date (NOT publication's date).
