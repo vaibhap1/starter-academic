@@ -18,13 +18,9 @@ bio: My research interests include temporal data mining, causal inference, healt
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Data Mining
-- Time series analysis
-- Machine Learning
-- Causal Inference
-- Information Retrieval
-
+- mHealth and Health informatics
+- Behavioral Modeling
+- Statistical Modeling
 # Education to show in About widget
 education:
   courses:
@@ -34,7 +30,7 @@ education:
   - course: MS in Computer Science
     institution: University of California, Irvine
     year: 2019
-  - course: BTech (H) in Computer Science and Engineering
+  - course: B.Tech. (H) in Computer Science and Engineering
     institution: Indian Institute of Technology Kharagpur
     year: 2012
 
