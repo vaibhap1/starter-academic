@@ -49,16 +49,16 @@ experience:
         * Managing course logistics.
 
   - title: Research Intern (Systems biology)
-    company: Sagebionetworks
-    company_url: ''
+    company: Sage Bionetworks
+    company_url: 'https://sagebionetworks.org/'
     location: Washington
     date_start: '2017-07-01'
     date_end: '2017-09-01'
     description:  Analysing tremors and movement patterns among Parkinson’s disease patients using accelerometer and lifestyle data collected using smart phones and mHealth application.
     
   - title: Senior Research Associate
-    company: Abzooba India
-    company_url: ''
+    company: Abzooba
+    company_url: 'https://abzooba.com/'
     location: India
     date_start: '2013-12-13'
     date_end: '2016-06-06'
@@ -66,16 +66,16 @@ experience:
     
 
   - title: Analyst (R&D)
-    company: Global Anlaytics
-    company_url: ''
+    company: Global Analytics
+    company_url: 'https://www.gaincredit.com/'
     location: India
     date_start: '2013-07-10'
     date_end: '2013-12-10'
     description:  
     
-  - title: Reserach Intern
+  - title: Research Intern
     company: Infosys Labs
-    company_url: ''
+    company_url: 'https://www.infosys.com/'
     location: India
     date_start: '2011-05-10'
     date_end: '2011-07-10'
