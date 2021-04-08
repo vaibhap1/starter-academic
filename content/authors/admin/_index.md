@@ -48,9 +48,9 @@ social:
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.com/citations?user=nNgqv4wAAAAJ&hl=en
-- icon: github
-  icon_pack: fab
-  link: https://github.com/vaibhap1
+# - icon: github
+#  icon_pack: fab
+#  link: https://github.com/vaibhap1
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/vaibhav-pandey-7776b951/
